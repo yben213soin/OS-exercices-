@@ -21,6 +21,7 @@ To interact with the underlying operating system file management system, the fol
 ---
 
 ##  i put document an exemple for the execution  
+tp2 screen.odt
 
 ## And for the final How to Run the Program
 
