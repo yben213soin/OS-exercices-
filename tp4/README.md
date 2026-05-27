@@ -32,6 +32,7 @@ This structural serialization guarantees that only one thread can execute the co
 ---
 
 ##  i put document an exemple for the execution  
+tp4 screen.odt
 
 ## How to Run the Program
 
