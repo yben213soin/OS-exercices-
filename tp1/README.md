@@ -15,6 +15,7 @@ The `sys_info.sh` script extracts the following data:
 
 
 ## I put a document for the final execution 
+tp1 screen.odt
  
 ##  And For the final how to Run the Script
 
