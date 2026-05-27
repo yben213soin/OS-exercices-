@@ -23,6 +23,8 @@ On POSIX compliant operating systems (like Linux), calling `child_process.start(
 ---
 
 ##  i put document an exemple for the execution  
+tp 3 screen.odt
+
 
 ## And for the final how to Run the Program
 
